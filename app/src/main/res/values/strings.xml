@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SimpleCustomNotification</string>
+    <string name="description">My image description</string>
+
+    <!--global-->
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="programmed_alarm_at">Programmed alarm at %1$s</string>
+    <string name="programming_alarm">ProgrammingAlarmNotification</string>
+    <string name="normal_style">Set Normal Style</string>
+    <string name="big_text_style">Set Big Text Style</string>
+    <string name="big_picture_style">Set Big Picture Style</string>
+    <string name="inbox_style">Set Inbox Style</string>
+    <string name="custom_view">Set Custom View</string>
+    <!---->
+</resources>

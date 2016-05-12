@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textAlarmPrompt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnSmallIconStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/programming_alarm"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btnNormalStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/normal_style"/>
+
+    <Button
+        android:id="@+id/btnBigTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/big_text_style"/>
+
+    <Button
+        android:id="@+id/btnBigPictureStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/big_picture_style"/>
+
+    <Button
+        android:id="@+id/btnInboxStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/inbox_style"/>
+
+    <Button
+        android:id="@+id/btnCustomView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/custom_view"/>
+
+</LinearLayout>
