@@ -18,7 +18,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <receiver android:name="com.realsolutions.customnotification.AlarmReceiver" android:process=":remote" />
+        <receiver android:name=".AlarmReceiver" android:process=":remote" />
     </application>
 
 </manifest>
